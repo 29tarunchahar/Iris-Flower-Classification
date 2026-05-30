@@ -125,20 +125,24 @@ The Iris dataset contains **150 flower samples** divided into three classes.
 
 # ⚙️ Installation
 
-### Clone Repository
-
+## 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/yourusername/Iris-Flower-Classification.git
+git clone hhttps://github.com/29tarunchahar/Iris-Flower-Classification
+
+```
+
+## 2️⃣ Move to Project Folder
+```
 cd Iris-Flower-Classification
 ```
 
-### Install Dependencies
+## 3️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run Streamlit App
+## 4️⃣ Run Streamlit App
 
 ```bash
 streamlit run Iris.py
