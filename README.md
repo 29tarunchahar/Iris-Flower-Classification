@@ -2,10 +2,10 @@
 
 A Machine Learning based web application that predicts the species of an Iris flower using flower measurements.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
@@ -14,16 +14,16 @@ A Machine Learning based web application that predicts the species of an Iris fl
 
 The **Iris Flower Classification System** is a Machine Learning project that classifies Iris flowers into one of three species:
 
-* 🌼 Iris Setosa
-* 🌷 Iris Versicolor
-* 🌺 Iris Virginica
+- 🌼 Iris Setosa
+- 🌷 Iris Versicolor
+- 🌺 Iris Virginica
 
 The prediction is based on the following flower measurements:
 
-* 📏 Sepal Length
-* 📏 Sepal Width
-* 📏 Petal Length
-* 📏 Petal Width
+- 📏 Sepal Length
+- 📏 Sepal Width
+- 📏 Petal Length
+- 📏 Petal Width
 
 The project uses a trained **K-Nearest Neighbors (KNN)** model and an interactive **Streamlit dashboard** for real-time predictions.
 
@@ -31,34 +31,34 @@ The project uses a trained **K-Nearest Neighbors (KNN)** model and an interactiv
 
 # 📑 Table of Contents
 
-* ✨ Features
-* 🛠️ Tech Stack
-* 📂 Dataset
-* 📸 Screenshots
-* ⚙️ Installation
-* 🚀 Usage
-* 📁 Project Structure
-* 📊 Model Performance
-* 🎯 Learning Outcomes
-* 👨‍💻 Author
+- ✨ Features
+- 🛠️ Tech Stack
+- 📂 Dataset
+- 📸 Screenshots
+- ⚙️ Installation
+- 🚀 Usage
+- 📁 Project Structure
+- 📊 Model Performance
+- 🎯 Learning Outcomes
+- 👨‍💻 Author
 
 ---
 
 # ✨ Features
 
-* Iris flower species prediction
+- Iris flower species prediction
 
-* Interactive Streamlit interface
+- Interactive Streamlit interface
 
-* K-Nearest Neighbors (KNN) model
+- K-Nearest Neighbors (KNN) model
 
-* Data visualization using Seaborn
+- Data visualization using Seaborn
 
-* User input measurement graph
+- User input measurement graph
 
-* Model saved using Joblib
+- Model saved using Joblib
 
-* Real-time predictions
+- Real-time predictions
 
 ---
 
@@ -106,18 +106,13 @@ The Iris dataset contains **150 flower samples** divided into three classes.
 
 ![Dashboard](images/Dashboard/dashboard.png)
 
-
-
 ## 📈 Graph / Visualization Output
 
 ![Pair Plot Part 1](images/Graph_Visulation/pairplot_part1.png)
 ![Pair Plot Part 2](images/Graph_Visulation/pairplot_part2.png)
 ![Pair Plot Part 3](images/Graph_Visulation/pairplot_part3.png)
 
-
-
 ### 🌸 Prediction Result
-
 
 ![Prediction](images/Prediction_Graph/Prediction_Graph.png)
 
@@ -126,12 +121,13 @@ The Iris dataset contains **150 flower samples** divided into three classes.
 # ⚙️ Installation
 
 ## 1️⃣ Clone Repository
+
 ```bash
 git clone hhttps://github.com/29tarunchahar/Iris-Flower-Classification
-
 ```
 
 ## 2️⃣ Move to Project Folder
+
 ```
 cd Iris-Flower-Classification
 ```
@@ -184,12 +180,11 @@ Iris-Flower-Classification/
         └── prediction_graph.png
 ```
 
-
 ---
 
 # 📊 Model Performance
 
- ### Algorithm Used
+### Algorithm Used
 
 ```python
 KNeighborsClassifier(n_neighbors=3)
@@ -197,9 +192,9 @@ KNeighborsClassifier(n_neighbors=3)
 
 ### Evaluation Metrics
 
-* Accuracy Score
-* Confusion Matrix
-* Classification Report
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
 
 ### Sample Accuracy
 
@@ -215,13 +210,13 @@ Accuracy: 96% - 100%
 
 This project helped in understanding:
 
-* Supervised Machine Learning
-* Classification Problems
-* KNN Algorithm
-* Data Visualization
-* Model Evaluation
-* Streamlit Deployment
-* Model Serialization using Joblib
+- Supervised Machine Learning
+- Classification Problems
+- KNN Algorithm
+- Data Visualization
+- Model Evaluation
+- Streamlit Deployment
+- Model Serialization using Joblib
 
 ---
 
@@ -229,17 +224,15 @@ This project helped in understanding:
 
 ## Tarun Chahar
 
-* 🎓 B.Tech CSE Student
-* 💻 Aspiring Data Scientist
-* 🚀 Passionate about Machine Learning & AI
+- 🎓 B.Tech CSE Student
+- 💻 Aspiring Data Scientist
+- 🚀 Passionate about Machine Learning & AI
 
 ### 📬 Connect With Me
 
-* GitHub: https://github.com/29tarunchahar
-* LinkedIn: https://www.linkedin.com/in/29-tarun-chahar/
+- GitHub: https://github.com/29tarunchahar
+- LinkedIn: https://www.linkedin.com/in/29-tarun-chahar/
 
 ---
-
-
 
 <h3 align="center">💖 Thank You for Visiting 💖</h3>
