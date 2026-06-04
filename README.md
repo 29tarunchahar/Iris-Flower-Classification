@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification using KNN
+# 🌸 Iris Flower Classification
 
 A Machine Learning based web application that predicts the species of an Iris flower using flower measurements.
 
